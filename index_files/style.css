@@ -23,7 +23,7 @@ h2 {
  color: rgb(171, 41, 47);
  }
 body {
- background: url('../img/1.jpg') repeat fixed center top rgb(163, 93, 27);
+ background: url('../index_files/1.jpg') repeat fixed center top rgb(163, 93, 27);
  color: rgb(0, 0, 0);
  font-family: "Tahoma";
  font-size: 12px;
@@ -45,7 +45,7 @@ body {
  color: rgb(255, 0, 0);
  }
 #header {
- background-image: url('../img/header.png');
+ background-image: url('./index_files/header.png');
  min-height: 200px;
  }
 #logo {
@@ -64,7 +64,7 @@ body {
  float: left;
  }
 #leftbar li {
- list-style-image: url('../img/li.png');
+ list-style-image: url('./index_files/li.png');
  }
  
  #leftbar li a{
@@ -118,7 +118,7 @@ body {
  margin-bottom: 10px;
  }
 .vk-logo {
- background: url('../img/vk-logo.gif') no-repeat scroll 0% 0% transparent;
+ background: url('./index_files/vk-logo.gif') no-repeat scroll 0% 0% transparent;
  width: 16px;
  height: 16px;
  float: right;
@@ -159,7 +159,7 @@ body {
  position: absolute;
  right: -5px;
  bottom: 10px;
- background: url('../img/like.png') no-repeat scroll left center transparent;
+ background: url('./index_files/like.png') no-repeat scroll left center transparent;
  width: 30px;
  height: 16px;
  display: inline-block;
